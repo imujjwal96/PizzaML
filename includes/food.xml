@@ -1,0 +1,369 @@
+<menu>
+  <category name="Pizzas">
+    <item name="Tomato &amp; Cheese">
+      <size type="Small">
+        <price>5.50</price>
+      </size>
+      <size type="Large">
+        <price>9.75</price>
+      </size>
+      <additional />
+    </item>
+    <item name="Onions">
+      <size type="Small">
+        <price>6.85</price>
+      </size>
+      <size type="Large">
+        <price>10.85</price>
+      </size>
+      <additional />
+    </item>
+    <item name="Peppers">
+      <size type="Small">
+        <price>6.85</price>
+      </size>
+      <size type="Large">
+        <price>10.85</price>
+      </size>
+      <additional />
+    </item>
+    <item name="Fresh Garlic">
+      <size type="Small">
+        <price>6.85</price>
+      </size>
+      <size type="Large">
+        <price>10.85</price>
+      </size>
+      <additional />
+    </item>
+    <note />
+  </category>
+  <category name="Speciality Pizzas">
+    <item name="Three Aces Special">
+      <size type="Small">
+        <price>9.85</price>
+      </size>
+      <size type="Large">
+        <price>9.75</price>
+      </size>
+      <additional />
+    </item>
+    <item name="Mediterranean">
+      <size type="Small">
+        <price>9.80</price>
+      </size>
+      <size type="Large">
+        <price>15.80</price>
+      </size>
+      <additional>
+        Sliced Tomatoes, Olives, Spinach, Fresh Garlic, Mozzarella &amp; Feta Cheese
+      </additional>
+    </item>
+    <item name="Vegetarian">
+      <size type="Small">
+        <price>9.80</price>
+      </size>
+      <size type="Large">
+        <price>15.80</price>
+      </size>
+      <additional>
+        Sliced Tomatoes, Onion, Peppers, Mushrooms, Broccoli, Mozzarella
+      </additional>
+    </item>
+    <item name="Meat Lovers">
+      <size type="Small">
+        <price>9.80</price>
+      </size>
+      <size type="Large">
+        <price>15.80</price>
+      </size>
+      <additional>
+        Pepperoni, Hamburg, Sausage &amp; Bacon
+      </additional>
+    </item>
+    <note />
+  </category>
+  <category name="Special Dinners">
+    <item name="Chicken Wing Dinner">
+      <size type="Small" />
+      <size type="Large">
+        <price>7.25</price>
+      </size>
+      <additional />
+    </item>
+    <item name="Double-cheeseburger Plate">
+      <size type="Small" />
+      <size type="Large">
+        <price>5.75</price>
+      </size>
+      <additional />
+    </item>
+    <item name="Chicken Kabob Plate">
+      <size type="Small" />
+      <size type="Large">
+        <price>7.85</price>
+      </size>
+      <additional>
+        With rice, salad &amp; pita bread
+      </additional>
+    </item>
+    <item name="Steak Tips Dinner">
+      <size type="Small" />
+      <size type="Large">
+        <price>8.25</price>
+      </size>
+      <additional>
+        With side salad &amp; french fries
+      </additional>
+    </item>
+    <note>All Dinners serverd with French Fries and Salad</note>
+  </category>
+  <category name="Side Orders">
+    <item name="Onion Rings">
+      <size type="Small">
+        <price>2.60</price>
+      </size>
+      <size type="Large">
+        <price>2.95</price>
+      </size>
+      <additional />
+    </item>
+    <item name="French Fries">
+      <size type="Small">
+        <price>2.25</price>
+      </size>
+      <size type="Large">
+        <price>2.65</price>
+      </size>
+      <additional />
+    </item>
+    <item name="Spicy Fries">
+      <size type="Small">
+        <price>2.60</price>
+      </size>
+      <size type="Large">
+        <price>2.95</price>
+      </size>
+      <additional />
+    </item>
+    <item name="Chicken Wings">
+      <size type="Small" />
+      <size type="Large">
+        <price>5.75</price>
+      </size>
+      <additional />
+    </item>
+  </category>
+  <category name="Salads">
+    <item name="Garden">
+      <size type="Small">
+        <price>3.50</price>
+      </size>
+      <size type="Large">
+        <price>4.50</price>
+      </size>
+      <additional />
+    </item>
+    <item name="Greek">
+      <size type="Small">
+        <price>4.50</price>
+      </size>
+      <size type="Large">
+        <price>5.50</price>
+      </size>
+      <additional />
+    </item>
+    <item name="Antipasto">
+      <size type="Small">
+        <price>4.50</price>
+      </size>
+      <size type="Large">
+        <price>5.50</price>
+      </size>
+      <additional />
+    </item>
+    <item name="Kabob Salad">
+      <size type="Small">
+        <price>5.45</price>
+      </size>
+      <size type="Large">
+        <price>6.45</price>
+      </size>
+      <additional>
+        With grilled Chicken &amp; feta cheese
+      </additional>
+    </item>
+    <note />
+  </category>
+  <category name="Spaghetti or Ziti">
+    <item name="With Sauce">
+      <size type="Small" />
+      <size type="Large">
+        <price>5.40</price>
+      </size>
+      <additional />
+    </item>
+    <item name="With Sausage">
+      <size type="Small" />
+      <size type="Large">
+        <price>6.45</price>
+      </size>
+      <additional />
+    </item>
+    <item name="With Meat Ball">
+      <size type="Small" />
+      <size type="Large">
+        <price>6.45</price>
+      </size>
+      <additional />
+    </item>
+    <item name="A La Three Aces">
+      <size type="Small" />
+      <size type="Large">
+        <price>7.25</price>
+      </size>
+      <additional>
+        Sausage, Mushrooms, Bacon &amp; Ham Topped with Sauce &amp; Mozzarella Cheese
+      </additional>
+    </item>
+    <note />
+  </category>
+  <category name="Home made Lasagna Ravioli or Manicotti">
+    <item name="With Sauce">
+      <size type="Small" />
+      <size type="Large">
+        <price>6.25</price>
+      </size>
+      <additional />
+    </item>
+    <item name="With Sausage">
+      <size type="Small" />
+      <size type="Large">
+        <price>7.25</price>
+      </size>
+      <additional />
+    </item>
+    <item name="With Meatball">
+      <size type="Small" />
+      <size type="Large">
+        <price>7.25</price>
+      </size>
+      <additional />
+    </item>
+    <item name="Veggie Lasagna">
+      <size type="Small" />
+      <size type="Large">
+        <price>7.25</price>
+      </size>
+      <additional />
+    </item>
+    <note>All Pasta Dinners Served with Garlic Bread and Salad</note>
+  </category>
+  <category name="Homemade Calzones">
+    <item name="Vegetarian">
+      <size type="Small" />
+      <size type="Large">
+        <price>7.35</price>
+      </size>
+      <additional />
+    </item>
+    <item name="Sausage">
+      <size type="Small" />
+      <size type="Large">
+        <price>7.35</price>
+      </size>
+      <additional />
+    </item>
+    <item name="Ham &amp; Cheese">
+      <size type="Small" />
+      <size type="Large">
+        <price>7.35</price>
+      </size>
+      <additional />
+    </item>
+    <item name="Chicken Cutlet">
+      <size type="Small" />
+      <size type="Large">
+        <price>7.35</price>
+      </size>
+      <additional />
+    </item>
+    <note />
+  </category>
+  <category name="Wraps">
+    <item name="Turkey Club Wrap">
+      <size type="Small" />
+      <size type="Large">
+        <price>4.95</price>
+      </size>
+      <additional>
+        Turkey, Cheese, Lettuce, Tomato, Onion, Mayo
+      </additional>
+    </item>
+    <item name="Chicken Cobb">
+      <size type="Small" />
+      <size type="Large">
+        <price>4.95</price>
+      </size>
+      <additional>
+        Grilled Chicken, Bacon, Cheese, lettuce, Tomatop, Onion, Honey Mustard
+      </additional>
+    </item>
+    <item name="Greek Supreme">
+      <size type="Small" />
+      <size type="Large">
+        <price>4.95</price>
+      </size>
+      <additional>
+        Feta Cheese, Black Olives, Lettuce, Tomato, Onion, Greek Dressing
+      </additional>
+    </item>
+    <item name="Steak Wrap">
+      <size type="Small" />
+      <size type="Large">
+        <price>4.95</price>
+      </size>
+      <additional />
+    </item>
+    <note />
+  </category>
+  <category name="Grinders">
+    <item name="Meatless">
+      <size type="Small">
+        <price>4.50</price>
+      </size>
+      <size type="Large">
+        <price>4.95</price>
+      </size>
+      <additional />
+    </item>
+    <item name="Hamburger">
+      <size type="Small">
+        <price>4.50</price>
+      </size>
+      <size type="Large">
+        <price>4.95</price>
+      </size>
+      <additional />
+    </item>
+    <item name="Cheeseburger">
+      <size type="Small">
+        <price>4.75</price>
+      </size>
+      <size type="Large">
+        <price>5.75</price>
+      </size>
+      <additional />
+    </item>
+    <item name="Meatball">
+      <size type="Small">
+        <price>4.75</price>
+      </size>
+      <size type="Large">
+        <price>5.75</price>
+      </size>
+      <additional />
+    </item>
+    <note />
+  </category>
+</menu>
